@@ -1,4 +1,4 @@
-### Hi there, I'm Michelle Lin 👋
+### Hello 🌎
 
 <!--
 **michelle-linn/michelle-linn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👻 Previous Roles
-- Fall '22   - Software Engineer Intern @ [Wealthsimple](https://www.wealthsimple.com/en-ca)
-- Summer '22 - Explore Intern (SWE & PM) @ [Microsoft](https://github.com/microsoft/CBL-Mariner)
-- Winter '22 - Software Developer Intern @ [Bank of Montreal](https://www.bmo.com/main/personal)
-- Summer '21 - Software Developer Intern @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html)
-- Summer '20 - High School Innovation Developer Intern @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html)
+My name is Michelle Lin, and welcome to my GitHub!
+
+I'm currently a Computer Science & Statistics student at University of Toronto.
+
+### 🚀 What I'm up to right now...
+📚 Computer Science & Statistics Student @ University of Toronto
+🏢 Past Internships/Co-ops: Wealthsimple, Microsoft, Bank of Montreal, Royal Bank of Canada
