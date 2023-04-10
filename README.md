@@ -1,4 +1,4 @@
-### Hello 🌎
+### Hello 🌎!
 
 <!--
 **michelle-linn/michelle-linn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ My name is Michelle Lin, and welcome to my GitHub!
 
 I'm currently a Computer Science & Statistics student at University of Toronto.
 
-### 🚀 What I'm up to right now...
-📚 Computer Science & Statistics Student @ University of Toronto
-🏢 Past Internships/Co-ops: Wealthsimple, Microsoft, Bank of Montreal, Royal Bank of Canada
+### 🚀 Recent Works
+- 📚 Computer Science & Statistics Student @ University of Toronto
+- 🏢 Past Internships/Co-ops: Wealthsimple, Microsoft, Bank of Montreal, Royal Bank of Canada
