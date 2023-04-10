@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👻 Previous Roles
-- Fall 2022   - Software Engineer Intern @ [Wealthsimple](https://www.wealthsimple.com/en-ca)
-- Summer 2022 - Explore Intern (SWE & PM) @ [Microsoft](https://github.com/microsoft/CBL-Mariner)
-- Winter 2022 - Software Developer Intern @ [Bank of Montreal](https://www.bmo.com/main/personal)
-- Summer 2021 - Software Developer Intern @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html)
-- Summer 2020 - High School Innovation Developer Intern @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html)
+- Fall '22   - Software Engineer Intern @ [Wealthsimple](https://www.wealthsimple.com/en-ca)
+- Summer '22 - Explore Intern (SWE & PM) @ [Microsoft](https://github.com/microsoft/CBL-Mariner)
+- Winter '22 - Software Developer Intern @ [Bank of Montreal](https://www.bmo.com/main/personal)
+- Summer '21 - Software Developer Intern @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html)
+- Summer '20 - High School Innovation Developer Intern @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html)
