@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Michelle Lin, and welcome to my GitHub!
+My name is Michelle Lin, and welcome to my GitHub! This is a space where you can get a glimpse of my excessive use of 🤪👻✨emojis✨👻🤪...
 
-I'm currently a Computer Science & Statistics student at University of Toronto.
+... oh, and what I'm up to.
+
+Thanks for dropping by!
 
 ### 🚀 Recent Works
 - 📚 Computer Science & Statistics Student @ University of Toronto
